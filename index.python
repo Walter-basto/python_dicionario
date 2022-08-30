@@ -1,0 +1,3 @@
+pessoas={"nome":"gustavo","sexo":"m","idade":"22"}
+print(pessoas["nome"])
+print(pessoas["idade"])
